@@ -1,13 +1,15 @@
-### Welcome to Suhas World 😎
+### Hi Suhas here ###
 
-👨🏻‍💻 About Me 🌈 Post Graduate Diploma in Big Data Analytics (2023-23) from CDAC ACTS Bangalore.
+👨🏻‍💻 About Me
 
-🌞 Bachelor Degree in Mechanical Engineering from Pune university.
+👨‍💻 Post Graduate Diploma in Big Data Analytics (2023-23) from CDAC ACTS Bangalore.
 
-⚽️ Hobbies: Travaling, Watching Movies
+👨‍🎓 Bachelor Degree in Mechanical Engineering from Pune University.
 
- How to reach me:
+⚽️ Hobbies: Traveling, Watching Movies
 
-📍 Email : suhaskulkarni2133@gmail.com
+## How to contact me:
+📧 Email me at:  suhaskulkarni2133@gmail.com
+
 
 ![image](https://github.com/Suhas2151/Suhas2151/blob/main/pngwing.com.png)
